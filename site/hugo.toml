@@ -6,4 +6,3 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
 images = ["img/collectif-pdf_fip-2024-32.jpg", "img/collectif-pdf_fip-2024-165.jpg"]
-theme = '_default"
