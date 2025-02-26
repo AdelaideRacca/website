@@ -47,4 +47,14 @@ values:
       schools everywhere our coffee is grown. You can see the communities grow
       and learn more about coffee farming on our blog.
     imageUrl: /img/about-reinvest-profits.jpg
+  - heading: Un nouveau titre
+    text: Des femmes, des acrobates, une masse, un ensemble aux possibilités
+      infinies, différentes, convaincues, douces, masculines, des mamans,
+      beaucoup, des pandas, incapables, fortes, lyriques, des signes,
+      astrologiques, hormono-reglées, des objets de désirs, une équipe de rugby,
+      des beautés, absurdes, des innommées, des supers héroïnes, des
+      provocatrices, des idéalistes, vraies, illuminées, une avancée à
+      l’unisson, une nomenclature, et plus… Un projet généreux, sensible et
+      engagé.
+    imageUrl: img/collectif-pdf_fip-2024-1.jpg
 ---
