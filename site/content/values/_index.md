@@ -11,7 +11,7 @@ values:
       provocatrices, des idéalistes, vraies, illuminées, une avancée à
       l’unisson, une nomenclature, et plus… Un projet généreux, sensible et
       engagé.
-    imageUrl: img/collectif-pdf_fip-2024-32.jpg
+    imageUrl: img/collectif-pdf_fip-2024-165.jpg
   - heading: Shade-grown coffee
     text: >
       Coffee is a small tree or shrub that grows in the forest understory in its
