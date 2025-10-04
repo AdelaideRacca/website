@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Projet.PDF"
+title = "Les Panoplies"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
